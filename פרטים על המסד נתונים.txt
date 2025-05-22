@@ -1,0 +1,3 @@
+mongodb+srv://Dvora:Dvora9866@cluster0.6bv2uox.mongodb.net/   קישור למסד נתונים
+Dvora שם משתמש
+Dvora9866  סיסמה
